@@ -4,36 +4,17 @@
 Cybersecurity enthusiast with a passion for coding and problem-solving
 </h3>
 
-<p align="left"></p>
-
 <ul>
   <li>🌱 I’m currently learning new programming languages.</li>
+  <li>🛡️ Intermediate level in OSINT and OPSEC.</li>
 </ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
 
 <h3 align="left">Languages and Tools (beginner level):</h3>
 
 <p align="left">
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-       alt="javascript" width="40" height="40"/>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-         alt="linux" width="40" height="40"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="40" height="40"/>
-  </a>
-
-  <!-- HTML -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" 
-       alt="html" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/>
 
 </p>
