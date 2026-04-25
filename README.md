@@ -16,21 +16,24 @@ Cybersecurity enthusiast with a passion for coding and problem-solving
 <h3 align="left">Languages and Tools (beginner level):</h3>
 
 <p align="left">
-       alt="javascript" width="40" height="40"/>
+  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+       alt="javascript" width="40" height="40"/>
 
+  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
          alt="linux" width="40" height="40"/>
   </a>
 
-
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
          alt="python" width="40" height="40"/>
   </a>
 
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" 
+  <!-- HTML -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" 
        alt="html" width="40" height="40"/>
+
 </p>
