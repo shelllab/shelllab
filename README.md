@@ -6,7 +6,7 @@ Cybersecurity enthusiast with a passion for coding and problem-solving
 
 <ul>
   <li>🌱 I’m currently learning new programming languages.</li>
-  <li>🛡️ Intermediate level in OSINT and OPSEC?????</li>
+  <li>🛡️ Intermediate level in OSINT and OPSEC maybe..</li>
 </ul>
 
 <h3 align="left">Languages and Tools (beginner level):</h3>
